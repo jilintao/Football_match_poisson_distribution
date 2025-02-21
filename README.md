@@ -13,3 +13,5 @@ Data validation is used to choose each team.
 
 ![image](https://github.com/user-attachments/assets/f710a348-db9e-4842-8982-ac7ab71334e1)
 
+## Dataset is from https://fbref.com/en/comps/12/2023-2024/2023-2024-La-Liga-Stats
+
